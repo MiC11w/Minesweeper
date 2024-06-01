@@ -1,0 +1,145 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Sapper2.Views.NewCustomLevelPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:bar="clr-namespace:AppBarUtils;assembly=AppBarUtils"
+    xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="false">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <TextBlock Text="{Binding Path=LocalizedResources.ViewCustomLevel_Title, Source={StaticResource LocalizedStrings}}" Margin="9,-7,12,10" Style="{StaticResource PhoneTextTitle1Style}"/>
+        <!--TitlePanel contains the name of the application and page title-->
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+
+            <StackPanel Grid.Row="0" Height="100">
+                <TextBlock Text="{Binding LocalizedResources.ViewCustomLevel_LevelName, Mode=OneWay, Source={StaticResource LocalizedStrings}}"/>
+                <TextBox x:Name="tbxLevelName" TextWrapping="Wrap" Text="New level" MaxLength="12"/>
+            </StackPanel>
+
+            <StackPanel Grid.Row="1" >
+                <TextBlock TextWrapping="Wrap" Text="{Binding Path=LocalizedResources.ViewCustomLevel_Textblock_Horizontal, Source={StaticResource LocalizedStrings}}"/>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition Width="auto"/>
+                    </Grid.ColumnDefinitions>
+                    <Slider Grid.Column="0" x:Name="sldrHorizontal" Height="100" Maximum="25" Value="10"
+                            Background="#FF1F1F1F" BorderBrush="Transparent" ValueChanged="sldrHorizontal_ValueChanged" Minimum="1" 
+                            Margin="0,0,0,-5"/>
+                    <TextBox Grid.Column="1" x:Name="tbxHorizontal" TextWrapping="Wrap" Text="10" HorizontalAlignment="Center" 
+                             VerticalAlignment="Center" IsReadOnly="True" Width="100" Height="72" TextAlignment="Center"/>
+                </Grid>
+            </StackPanel>
+
+            <StackPanel Grid.Row="2"  Margin="0" VerticalAlignment="Center">
+                <TextBlock TextWrapping="Wrap" 
+                           Text="{Binding Path=LocalizedResources.ViewCustomLevel_Textblock_Vertical, Source={StaticResource LocalizedStrings}}"/>
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition Width="auto"/>
+                    </Grid.ColumnDefinitions>
+                    <Slider Grid.Column="0" x:Name="sldrVertical" Height="100" VerticalAlignment="Center" 
+                            Maximum="25" Value="10" Background="#FF1F1F1F" 
+                            BorderBrush="Transparent" ValueChanged="sldrVertical_ValueChanged" 
+                            Minimum="1" Margin="0,0,0,-5"/>
+                    <TextBox Grid.Column="1" x:Name="tbxVertical" TextWrapping="Wrap" Text="10" HorizontalAlignment="Center" 
+                             VerticalAlignment="Center" IsReadOnly="True" 
+                             Width="100" Height="72" TextAlignment="Center"/>
+                </Grid>
+            </StackPanel>
+
+            <StackPanel Grid.Row="3"  Margin="0" VerticalAlignment="Center">
+                <TextBlock TextWrapping="Wrap" Text="{Binding Path=LocalizedResources.ViewCustomLevel_Textblock_MineCount, Source={StaticResource LocalizedStrings}}"/>
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition Width="auto"/>
+                    </Grid.ColumnDefinitions>
+                    <Slider Grid.Column="0" x:Name="sldrMineCount" Height="100" 
+                                Maximum="25" Value="10" Background="#FF1F1F1F" 
+                                BorderBrush="Transparent" ValueChanged="sldrMineCount_ValueChanged" 
+                                Minimum="1" Margin="0,0,0,-5"/>
+                    <TextBox Grid.Column="1" x:Name="tbxMineCount" TextWrapping="Wrap" Text="10" 
+                                 HorizontalAlignment="Right" VerticalAlignment="Center" 
+                                 Width="100" Height="72" TextAlignment="Center" InputScope="Number" 
+                                 TextChanged="tbxMineCount_TextChanged"/>
+                </Grid>
+            </StackPanel>
+
+            <StackPanel Grid.Row="4">
+                <TextBlock TextWrapping="Wrap" 
+                           Text="{Binding Path=LocalizedResources.ViewCustomLevel_Textblock_Color, Source={StaticResource LocalizedStrings}}"/>
+                <Grid Margin="0,0,12,0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="Auto" />
+                    </Grid.ColumnDefinitions>
+                    <Canvas x:Name="Canvas_SelectedColor"  Height="50" 
+                            Background="Aqua" Tap="Canvas_Tap_1" Margin="12,12,0,5"/>
+                </Grid>
+            </StackPanel>
+
+            <StackPanel Grid.Row="5" Margin="0" VerticalAlignment="Center">
+                <StackPanel Margin="0,10, 12,0">
+                    <StackPanel.Background>
+                        <SolidColorBrush Color="{StaticResource PhoneChromeColor}"/>
+                    </StackPanel.Background>
+                    <StackPanel Orientation="Horizontal" Width="380">
+                        <TextBlock TextWrapping="Wrap" Text="{Binding Path=LocalizedResources.ViewCustomLevel_Textblock_Board, Source={StaticResource LocalizedStrings}}" Foreground="White"/>
+                        <TextBlock x:Name="tblkHorizontalCount" TextWrapping="Wrap" Text="10"/>
+                        <TextBlock TextWrapping="Wrap" Text="x"/>
+                        <TextBlock x:Name="tblkVerticalCount" TextWrapping="Wrap" Text="10"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" Width="380">
+                        <TextBlock TextWrapping="Wrap" Text="{Binding Path=LocalizedResources.ViewCustomLevel_Textblock_Mines, Source={StaticResource LocalizedStrings}}" Foreground="White"/>
+                        <TextBlock x:Name="tblkMinePercentage" TextWrapping="Wrap" Text="10"/>
+                        <TextBlock TextWrapping="Wrap" Text="%"/>
+                    </StackPanel>
+                </StackPanel>
+            </StackPanel>
+        </Grid>
+    </Grid>
+
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="/Assets/AppBar/AppBarSave.png" Text="save" Click="ApplicationBarSave_Click"/>
+            <shell:ApplicationBarIconButton IconUri="/Assets/AppBar/AppBarCancel.png" Text="cancel" Click="ApplicationBarCancel_Click"/>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+
+    <i:Interaction.Behaviors>
+        <bar:AppBarItemCommand Id="save" Text="{Binding LocalizedResources.AppBar_save, Mode=OneWay, Source={StaticResource LocalizedStrings}}"/>
+        <bar:AppBarItemCommand Id="cancel" Text="{Binding LocalizedResources.AppBar_cancel, Mode=OneWay, Source={StaticResource LocalizedStrings}}"/>
+    </i:Interaction.Behaviors>
+
+</phone:PhoneApplicationPage>

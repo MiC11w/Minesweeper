@@ -1,0 +1,37 @@
+﻿<xapCache source="E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\Bin\Release\Sapper2.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="13-Mar-13 10:51:01 AM">
+  <file source="E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\Bin\Release\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="11-Mar-13 10:18:31 PM" />
+  <file source="E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\Assets\Tile.png" archivePath="Assets\Tile.png" lastWriteTime="04-Mar-13 7:38:18 PM" />
+  <file source="E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\Assets\AppIcon.png" archivePath="Assets\AppIcon.png" lastWriteTime="11-Mar-13 8:21:27 PM" />
+  <file source="E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\obj\Release\Sapper2.dll" archivePath="Sapper2.dll" lastWriteTime="13-Mar-13 10:51:00 AM" />
+  <file source="E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\packages\AdDuplexWP7.2.7.0.3\lib\sl4-windowsphone71\AdDuplex.WindowsPhone.dll" archivePath="AdDuplex.WindowsPhone.dll" lastWriteTime="27-Feb-13 4:48:09 PM" />
+  <file source="E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\packages\Coding4Fun.Phone.Controls.1.6.1\lib\sl4-windowsphone71\Coding4Fun.Phone.Controls.dll" archivePath="Coding4Fun.Phone.Controls.dll" lastWriteTime="13-Feb-13 8:46:27 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v7.1\Libraries\Silverlight\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="06-Jul-12 2:40:16 AM" />
+  <file source="E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\packages\WPtoolkit.4.2012.10.30\lib\sl4-windowsphone71\Microsoft.Phone.Controls.Toolkit.dll" archivePath="Microsoft.Phone.Controls.Toolkit.dll" lastWriteTime="11-Feb-13 7:12:43 PM" />
+  <file source="E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\obj\Release\pl-PL\Sapper2.resources.dll" archivePath="pl-PL\Sapper2.resources.dll" lastWriteTime="13-Mar-13 10:51:00 AM" />
+  <file source="E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="11-Feb-13 7:09:13 PM" />
+  <file source="E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\Assets\AppBar\AppBarCancel.png" archivePath="Assets\AppBar\AppBarCancel.png" lastWriteTime="11-Feb-13 7:09:21 PM" />
+  <file source="E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\Assets\AppBar\AppBarFlag.png" archivePath="Assets\AppBar\AppBarFlag.png" lastWriteTime="11-Feb-13 7:09:21 PM" />
+  <file source="E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\Assets\AppBar\AppBarReversedFlag.png" archivePath="Assets\AppBar\AppBarReversedFlag.png" lastWriteTime="11-Feb-13 7:09:22 PM" />
+  <file source="E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\Assets\AppBar\AppBarSave.png" archivePath="Assets\AppBar\AppBarSave.png" lastWriteTime="11-Feb-13 7:09:22 PM" />
+  <file source="E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\Assets\AppBar\AppBarPause.png" archivePath="Assets\AppBar\AppBarPause.png" lastWriteTime="16-Feb-13 12:47:18 PM" />
+  <file source="E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\Assets\AppBar\AppBarRestart.png" archivePath="Assets\AppBar\AppBarRestart.png" lastWriteTime="24-Feb-13 2:52:26 PM" />
+  <file source="E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\Assets\MineIcon.png" archivePath="Assets\MineIcon.png" lastWriteTime="04-Mar-13 7:42:04 PM" />
+  <file source="E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="05-Mar-13 6:24:56 PM" />
+  <file source="E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\Assets\Square\Explosion.png" archivePath="Assets\Square\Explosion.png" lastWriteTime="14-Feb-13 3:53:25 PM" />
+  <file source="E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\Assets\FlagIcon.png" archivePath="Assets\FlagIcon.png" lastWriteTime="11-Feb-13 7:09:13 PM" />
+  <file source="E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\Assets\Square\Flag.png" archivePath="Assets\Square\Flag.png" lastWriteTime="15-Feb-13 5:47:35 PM" />
+  <file source="E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\Assets\Square\FlagedMine.png" archivePath="Assets\Square\FlagedMine.png" lastWriteTime="15-Feb-13 5:57:46 PM" />
+  <file source="E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\Assets\Square\Mine.png" archivePath="Assets\Square\Mine.png" lastWriteTime="14-Feb-13 3:53:31 PM" />
+  <file source="E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\Assets\Tile\AppTile.png" archivePath="Assets\Tile\AppTile.png" lastWriteTime="15-Feb-13 5:43:44 PM" />
+  <file source="E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\Assets\Tile\FlipCycleTileLarge.png" archivePath="Assets\Tile\FlipCycleTileLarge.png" lastWriteTime="11-Feb-13 7:09:40 PM" />
+  <file source="E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\Assets\Tile\FlipCycleTileMedium.png" archivePath="Assets\Tile\FlipCycleTileMedium.png" lastWriteTime="11-Feb-13 7:09:40 PM" />
+  <file source="E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\Assets\Tile\FlipCycleTileSmall.png" archivePath="Assets\Tile\FlipCycleTileSmall.png" lastWriteTime="11-Feb-13 7:09:40 PM" />
+  <file source="E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\Assets\Tile\IconicTileMediumLarge.png" archivePath="Assets\Tile\IconicTileMediumLarge.png" lastWriteTime="11-Feb-13 7:09:40 PM" />
+  <file source="E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\Assets\Tile\IconicTileSmall.png" archivePath="Assets\Tile\IconicTileSmall.png" lastWriteTime="11-Feb-13 7:09:40 PM" />
+  <file source="E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\Assets\TimerIcon.png" archivePath="Assets\TimerIcon.png" lastWriteTime="11-Feb-13 7:09:14 PM" />
+  <file source="E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\Toolkit.Content\ApplicationBar.Cancel.png" archivePath="Toolkit.Content\ApplicationBar.Cancel.png" lastWriteTime="11-Feb-13 7:12:44 PM" />
+  <file source="E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\Toolkit.Content\ApplicationBar.Check.png" archivePath="Toolkit.Content\ApplicationBar.Check.png" lastWriteTime="11-Feb-13 7:12:44 PM" />
+  <file source="E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\Toolkit.Content\ApplicationBar.Delete.png" archivePath="Toolkit.Content\ApplicationBar.Delete.png" lastWriteTime="11-Feb-13 7:12:44 PM" />
+  <file source="E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\Toolkit.Content\ApplicationBar.Select.png" archivePath="Toolkit.Content\ApplicationBar.Select.png" lastWriteTime="11-Feb-13 7:12:44 PM" />
+  <file source="E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="13-Mar-13 10:50:52 AM" />
+</xapCache>

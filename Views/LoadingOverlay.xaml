@@ -1,0 +1,17 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Sapper2.Views.LoadingOverlay"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:slToolkit ="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait">
+
+    <Grid x:Name="LayoutRoot" Background="Transparent" Width="480">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="800"/>
+        </Grid.RowDefinitions>
+        <slToolkit:PerformanceProgressBar IsIndeterminate="True" Foreground="{StaticResource PhoneForegroundBrush}"/>
+    </Grid>
+
+</phone:PhoneApplicationPage>

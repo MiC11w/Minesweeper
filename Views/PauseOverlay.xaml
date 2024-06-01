@@ -1,0 +1,35 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Sapper2.Views.PauseOverlay"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:local="clr-namespace:Sapper2"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="false"
+    local:TiltEffect.IsTiltEnabled="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent" Height="800" Width="480">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+			<RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel Grid.Row="1" Orientation="Vertical" HorizontalAlignment="Center">
+            <TextBlock Text="{Binding Path=LocalizedResources.OverlayPause_Title, Source={StaticResource LocalizedStrings}}" HorizontalAlignment="Center" FontSize="{StaticResource PhoneFontSizeExtraExtraLarge}" Height="80" FontFamily="{StaticResource PhoneFontFamilySemiBold}" Margin="0,0,0,50"/>
+            <Button x:Name="Button_Restart" Content="{Binding Path=LocalizedResources.Overlay_Button_Restart, Source={StaticResource LocalizedStrings}}" Tap="Button_Restart_Tap" Style="{StaticResource PauseOverlayButtonStyle}"/>
+            <Button x:Name="Button_MainMenu" Content="{Binding Path=LocalizedResources.Overlay_Button_MainMenu, Source={StaticResource LocalizedStrings}}" Tap="Button_MainMenu_Tap" Style="{StaticResource PauseOverlayButtonStyle}"/>
+            <Button x:Name="Button_Resume" Content="{Binding Path=LocalizedResources.Overlay_Button_Resume, Source={StaticResource LocalizedStrings}}" Tap="Button_Resume_Tap" Style="{StaticResource PauseOverlayButtonStyle}"/>
+        </StackPanel>
+    </Grid>
+
+</phone:PhoneApplicationPage>

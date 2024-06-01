@@ -1,0 +1,182 @@
+E:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\Sapper2.dll
+E:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\Coding4Fun.Phone.Controls.dll
+E:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+E:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\Microsoft.Phone.Controls.xml
+E:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\App.g.cs
+E:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\Views\GamePage.g.cs
+E:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\Views\LoadingOverlay.g.cs
+E:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\Views\MainPage.g.cs
+E:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\Views\NewCustomLevelPage.g.cs
+E:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\Views\PauseOverlay.g.cs
+E:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\Sapper2.g.resources
+E:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\Sapper2.Resources.AppResources.resources
+E:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\Sapper2.csproj.GenerateResource.Cache
+E:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\Sapper2.dll
+E:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\Sapper2.pdb
+E:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\Sapper2.pdb
+E:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\AppManifest.xaml
+E:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\Sapper2.xap
+E:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\XapCacheFile.xml
+E:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\Sapper2.csprojResolveAssemblyReference.cache
+E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\Sapper2.dll
+E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\Sapper2.pdb
+E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\AppManifest.xaml
+E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\Sapper2.xap
+E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\Coding4Fun.Phone.Controls.dll
+E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\Microsoft.Phone.Controls.xml
+E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\App.g.cs
+E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\Views\GamePage.g.cs
+E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\Views\LoadingOverlay.g.cs
+E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\Views\MainPage.g.cs
+E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\Views\NewCustomLevelPage.g.cs
+E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\Views\PauseOverlay.g.cs
+E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\Sapper2.g.resources
+E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\Sapper2.Resources.AppResources.resources
+E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\Sapper2.csproj.GenerateResource.Cache
+E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\Sapper2.dll
+E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\Sapper2.pdb
+E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\XapCacheFile.xml
+E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\Views\GameOverOverlay.g.cs
+E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\Views\VictoryOverlay.g.cs
+E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\AdDuplex.WindowsPhone.dll
+E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\pl-PL\Sapper2.resources.dll
+E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\Sapper2.Resources.AppResources.pl-PL.resources
+E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\pl-PL\Sapper2.resources.dll
+E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\Views\ColorSelector.g.cs
+E:\Skydrive\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\Sapper2.csprojResolveAssemblyReference.cache
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\Sapper2.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\Sapper2.pdb
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\pl-PL\Sapper2.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\AppManifest.xaml
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\Sapper2.xap
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\Coding4Fun.Phone.Controls.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\Microsoft.Phone.Controls.xml
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\App.g.cs
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\Views\ColorSelector.g.cs
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\Views\GameOverOverlay.g.cs
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\Views\GamePage.g.cs
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\Views\LoadingOverlay.g.cs
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\Views\MainPage.g.cs
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\Views\NewCustomLevelPage.g.cs
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\Views\PauseOverlay.g.cs
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\Views\VictoryOverlay.g.cs
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\Sapper2.g.resources
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\Sapper2.Resources.AppResources.resources
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\Sapper2.Resources.AppResources.pl-PL.resources
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\Sapper2.csproj.GenerateResource.Cache
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\pl-PL\Sapper2.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\Sapper2.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\Sapper2.pdb
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\XapCacheFile.xml
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\Microsoft.Advertising.Mobile.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\Microsoft.Advertising.Mobile.UI.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\Microsoft.Advertising.Mobile.xml
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\AppBarUtils.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\System.Windows.Interactivity.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\System.Windows.Interactivity.xml
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\Views\About.g.cs
+D:\Dropbox\Windows Phone\Sapper2 7.8\Sapper2\obj\Debug\Sapper2.csprojResolveAssemblyReference.cache
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\Bin\Debug\Sapper2.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\Bin\Debug\Sapper2.pdb
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\Bin\Debug\pl-PL\Sapper2.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\Bin\Debug\AppManifest.xaml
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\Bin\Debug\Sapper2.xap
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\Bin\Debug\AppBarUtils.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\Bin\Debug\Coding4Fun.Phone.Controls.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\Bin\Debug\Microsoft.Advertising.Mobile.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\Bin\Debug\Microsoft.Advertising.Mobile.UI.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\Bin\Debug\System.Windows.Interactivity.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\Bin\Debug\Microsoft.Advertising.Mobile.xml
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\Bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\Bin\Debug\Microsoft.Phone.Controls.xml
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\Bin\Debug\System.Windows.Interactivity.xml
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\obj\Debug\App.g.cs
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\obj\Debug\Views\About.g.cs
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\obj\Debug\Views\ColorSelector.g.cs
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\obj\Debug\Views\GameOverOverlay.g.cs
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\obj\Debug\Views\GamePage.g.cs
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\obj\Debug\Views\LoadingOverlay.g.cs
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\obj\Debug\Views\MainPage.g.cs
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\obj\Debug\Views\NewCustomLevelPage.g.cs
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\obj\Debug\Views\PauseOverlay.g.cs
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\obj\Debug\Views\VictoryOverlay.g.cs
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\obj\Debug\Sapper2.g.resources
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\obj\Debug\Sapper2.Resources.AppResources.resources
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\obj\Debug\Sapper2.Resources.AppResources.pl-PL.resources
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\obj\Debug\Sapper2.csproj.GenerateResource.Cache
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\obj\Debug\pl-PL\Sapper2.resources.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\obj\Debug\Sapper2.dll
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\obj\Debug\Sapper2.pdb
+D:\Dropbox\Windows Phone\Sapper2 7.8 2.1.1.0\Sapper2\obj\Debug\XapCacheFile.xml
